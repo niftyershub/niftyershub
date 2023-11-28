@@ -1,7 +1,8 @@
 ### 👋 Niftyers,
 
-We are a group of freelancers around the world who provide business solutions.
-We aimed to provide free apps for upstart business and customized entegrated apps at the right price.
+- We are a group of freelancers around the world who provide business solutions.
+- We aimed to provide free apps for upstart business and customized integrated apps at the right price.
+- We also accept project based and commisioned projects
 
 We also have open source projects and public repository.
 If you like to contribute to our open-source project, Just fork and cloned it to start development.
