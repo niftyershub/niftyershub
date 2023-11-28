@@ -18,6 +18,6 @@ We will only approved PR that follow the right branching and detailed commits.
 ### Got a work for us?
  📫 Send us an email to connect@niftyers.com
 
-### Follow us in Facebook and LinkedIn Page.
+### Follow us:.
 [<img alt="facebook" src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/niftyers/)
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/company/niftyers/)
